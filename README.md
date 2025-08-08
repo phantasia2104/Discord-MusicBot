@@ -282,4 +282,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Made with ❤️ by the Discord Music Bot team. Star ⭐ this repo if you found it useful!
+Made with ❤️ by EscanorLive. Star ⭐ this repo if you found it useful!
+
