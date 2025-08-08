@@ -1,0 +1,41 @@
+{
+  "name": "mayuri-music-bot",
+  "version": "2.0.0",
+  "description": "A comprehensive Discord music bot with advanced features - Mayuri-MusicBot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "music",
+    "bot",
+    "hydra",
+    "youtube",
+    "spotify"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.10.0",
+    "@discordjs/voice": "^0.17.0",
+    "@distube/ytdl-core": "^4.13.5",
+    "discord.js": "^14.14.1",
+    "ffmpeg-static": "^5.2.0",
+    "genius-lyrics": "^4.4.7",
+    "libsodium-wrappers": "^0.7.11",
+    "node-fetch": "^2.7.0",
+    "opusscript": "^0.0.8",
+    "play-dl": "^1.9.7",
+    "sodium-native": "^5.0.6",
+    "spotify-web-api-node": "^5.0.2",
+    "youtube-sr": "^4.3.11"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
